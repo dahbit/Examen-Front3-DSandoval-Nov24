@@ -1,2 +1,5 @@
-# Examen-Front3-DSandoval-Nov24
-Examen Formulario David Sandoval
+## Para correr el proyecto
+
+`npm install`
+
+`npm run dev`
